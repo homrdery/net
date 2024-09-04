@@ -1,0 +1,14 @@
+Package              Version
+-------------------- -------
+docutils             0.21.2
+greenlet             3.0.3
+lib                  4.0.0
+lockfile             0.12.2
+pip                  22.3.1
+python-daemon        3.0.1
+scapy                2.5.0
+setuptools           65.5.1
+SQLAlchemy           2.0.30
+SQLAlchemy-JSONField 1.0.2
+typing_extensions    4.12.2
+wheel                0.38.4
